@@ -1,8 +1,8 @@
-# Portfolio — Sergiu Neagu
+# Portfolio - Sergiu Neagu
 
 Personal portfolio website. I'm a full-stack developer based in Antwerp, building simple, professional websites for local businesses (including multilingual sites and contact forms).
 
-🔗 **Live demo:** [add link]
+🔗 **Live demo:** https://portfolio-sand-sigma-ug8vp5s2bv.vercel.app/
 
 ## Tech stack
 
@@ -27,6 +27,8 @@ npm start
 ## Contact
 
 **Sergiu Neagu**
-Full-Stack Developer — Antwerp
+Full-Stack Developer - Antwerp
+
 📧 neagusergiu11@gmail.com
+
 🔗 https://www.linkedin.com/in/sergiu-neagu28/
