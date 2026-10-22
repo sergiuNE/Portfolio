@@ -1,4 +1,4 @@
-# Portfolio - Sergiu Neagu
+# Portfolio - Sergiu Neagu (For making websites)
 
 Personal portfolio website. I'm a full-stack developer based in Antwerp, building simple, professional websites for local businesses (including multilingual sites and contact forms).
 
